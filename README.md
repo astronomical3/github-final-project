@@ -9,4 +9,5 @@ __Input:__
   - __r,__ annual rate of interest
   
 __Output:__
-  __simple interest__ = p\*t\*r
+
+  simple interest = p\*t\*r
